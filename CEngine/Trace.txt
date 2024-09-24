@@ -1,0 +1,8 @@
+--------TRACE--------
+Loading scene wow.scene
+Scene wow.scene has been loaded successfully. Total entity count: 2000
+Saving scene wow.scene. Total entity count: 3000
+Scene with name wow has been saved successfully.
+Loading scene with index 0
+Loading scene wow.scene
+Scene wow.scene has been loaded successfully. Total entity count: 3000
